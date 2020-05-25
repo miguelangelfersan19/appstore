@@ -1,0 +1,35 @@
+Creacion de package.json de inicio de proyecto
+npm init -y 
+
+Creacion de los modulos para crear el servidor
+npm i express express-handlebars
+
+instalacion en cmd de express
+npm i esprexx -S
+
+ejecucion del archivo index.js
+node src /index.js
+
+
+estilos de bootswatch - cdn
+https://bootswatch.com/4/cerulean/bootstrap.min.css
+
+biblioteca para letras y iconos
+https://fontawesome.com/
+
+metodo de pago
+https://stripe.com/es
+
+test-tripe
+https://stripe.com/docs/testing
+
+instalar modulo de stripe
+npm i stripe -S (por cmd)
+dentro de la consola del proyecto (npm i stripe)
+
+
+arvivo 
+index.xbs
+
+<h1> Producto </h1>
+<i class="fas fa-clock"></i>
